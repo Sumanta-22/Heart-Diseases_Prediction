@@ -1,15 +1,19 @@
 🩺 Heart Disease Prediction using Machine Learning
+
 📌 Overview
+
 Heart disease is one of the leading causes of death worldwide, and early detection can significantly improve patient outcomes. This project utilizes Machine Learning techniques to predict the likelihood of heart disease based on patient health metrics. The model is trained using XGBoost, Logistic Regression, SVM, and Random Forest, with enhancements using CNN for ECG report analysis to improve accuracy.
 
 🚀 Features
+
 ✅ Predicts heart disease risk based on patient data
 ✅ Implements multiple ML models for comparison and optimization
 ✅ Uses CNN for ECG analysis, boosting prediction accuracy
 ✅ Provides an interactive web-based interface for real-time predictions
 ✅ Supports data visualization for better interpretability of model outputs
 
-🛠 Tech Stack
+🛠 #Tech Stack
+
 Languages: Python
 Machine Learning Models: XGBoost, Logistic Regression, SVM, Random Forest, CNN
 Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, TensorFlow

@@ -12,13 +12,14 @@ Heart disease is one of the leading causes of death worldwide, and early detecti
 ✅ Provides an interactive web-based interface for real-time predictions
 ✅ Supports data visualization for better interpretability of model outputs
 
-🛠 #Tech Stack
+🛠 Tech Stack
 
 Languages: Python
 Machine Learning Models: XGBoost, Logistic Regression, SVM, Random Forest, CNN
 Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, TensorFlow
 
 📊 Dataset
+
 The model is trained on publicly available heart disease datasets, including:
 
 UCI Heart Disease Dataset (Cleveland)
@@ -31,16 +32,19 @@ ECG Reports for Deep Learning Analysis
 ├── README.md           # Project documentation  
 
 📈 Results
+
 Base ML Model Accuracy: 85-90% (XGBoost, Random Forest)
 CNN-based ECG Analysis Improvement: +15% accuracy boost
 Real-time Web Prediction Latency: ~2 seconds
 
 🔥 Future Enhancements
+
 🔹 Deploy as a web application for real-time health analysis
 🔹 Integrate additional ECG datasets for better generalization
 🔹 Optimize CNN model for improved ECG interpretation
 
 📌 How to Use
+
 1️⃣ Clone the repository
 git clone https://github.com/Sumanta-22/Heart-Disease-Prediction.git
 cd Heart-Disease-Prediction
@@ -55,6 +59,7 @@ python predict.py
 streamlit run app.py
 
 📢 Contributing
+
 Feel free to open issues or submit pull requests for improvements! 🚀
 
 📧 Contact: sumantag2403@gmail.com
